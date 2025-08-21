@@ -1,4 +1,6 @@
  Project Overview
+
+
 This project implements and evaluates K-Means clustering for detecting anomalous transactions in a dataset of 100 Nigerian financial transactions. The analysis covers threshold selection, boundary transaction handling, and discusses the limitations of K-Means for financial anomaly detection.
  Dataset
 
